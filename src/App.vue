@@ -19,7 +19,7 @@ export default {
 
 // main css
 body {
-  background-color: #999;
+  background-color: #0071c5;
   --azure-blue: #0071c5;
   --msft-green: #4e7200;
   --msft-orange: #c72b00;
@@ -83,6 +83,7 @@ html {
   padding-top: 40px;
   padding-bottom: 10px;
 }
+
 .credits-other {
   padding-bottom: 10px;
 }
@@ -109,6 +110,7 @@ h3,
 h4 {
   text-align: left;
 }
+
 // 
 
 // .at-related
@@ -168,6 +170,7 @@ h4 {
 .at-btn__icon {
   font-size: 20px;
 }
+
 // end .at-related
 
 // rate-related
@@ -191,6 +194,7 @@ h4 {
 .mid-btn {
   width: 240px;
 }
+
 // end rate-related
 
 // super-related
@@ -286,6 +290,5 @@ h4 {
 .padbottom10 {
   padding-bottom: 10px;
 }
-// end super-related
 
-</style>
+// end super-related</style>
