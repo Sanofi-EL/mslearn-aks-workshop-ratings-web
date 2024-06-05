@@ -83,7 +83,6 @@ html {
   padding-top: 40px;
   padding-bottom: 10px;
 }
-
 .credits-other {
   padding-bottom: 10px;
 }
@@ -110,7 +109,6 @@ h3,
 h4 {
   text-align: left;
 }
-
 // 
 
 // .at-related
@@ -170,7 +168,6 @@ h4 {
 .at-btn__icon {
   font-size: 20px;
 }
-
 // end .at-related
 
 // rate-related
@@ -194,7 +191,6 @@ h4 {
 .mid-btn {
   width: 240px;
 }
-
 // end rate-related
 
 // super-related
@@ -290,6 +286,6 @@ h4 {
 .padbottom10 {
   padding-bottom: 10px;
 }
-
 // end super-related
+
 </style>
